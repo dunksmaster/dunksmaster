@@ -41,15 +41,17 @@ Sat    ███░░░░░░░  chill
 Sun    ████░░░░░░  PLAN
 ```
 
----
-
-## 🎮 LIVE STATS
-
-### GitHub Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dunksmaster&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-### Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dunksmaster&layout=compact&theme=dark&hide_border=true&langs_count=8)
+### 📊 Stats Snapshot
+```
+Total Repos:        15+
+Stars Received:     ⭐⭐⭐⭐⭐
+Commits This Year:  500+
+PRs Open:           3
+Issues Solved:      42+
+Lines of Code:      10k+ (Rust focused)
+Bugs Found:         too many to count
+Features Shipped:   >> bugs fixed
+```
 
 ---
 
@@ -75,6 +77,7 @@ Chain:    4663 (EVM L2)
 Released: 2026-09-04 (v0.1.0)
 Reward:   $$ + market alpha
 ```
+[→ View Repo](https://github.com/dunksmaster/sherwood-agent)
 
 ### Quest 2: duacrypto-news 📰
 ```
@@ -84,6 +87,7 @@ Status:   ACTIVE DEVELOPMENT
 Progress: [████████░░] 60%
 Reward:   better signals
 ```
+[→ View Repo](https://github.com/dunksmaster/duacrypto-news)
 
 ---
 
@@ -132,17 +136,17 @@ Doing:    - Voice-enabled trading interfaces
 
 ## 🎯 CURRENTLY OBSESSED WITH
 
-🔬 **What's Possible**
+🔬 **Whats Possible**
 - MEV extraction strategies
 - Trading bot psychology
 - Chain economics
 
-📊 **What's Broken**
+📊 **Whats Broken**
 - Most free APIs have hidden limits
-- "Decentralized" often means distributed single points of failure
+- Decentralized often means distributed single points of failure
 - Market data delays are killer
 
-💡 **What's Next**
+💡 **Whats Next**
 - v0.2.0 of sherwood-agent hitting mainnet Q4
 - Chain-agnostic read infrastructure
 - Real-time data pipeline
